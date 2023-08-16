@@ -1118,7 +1118,7 @@
                 "https://github.com/m-sokes/ComfyUI-Sokes-Nodes"
             ],
             "install_type": "git-clone",
-            "description": "Nodes: Empty Latent Randomizer (9 Inputs)"
+            "description": "Nodes: Date Node with custom formatting, Empty Latent Randomizer (9 Inputs)"
         },
         {
             "author": "Extraltodeus",
