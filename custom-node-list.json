@@ -1401,6 +1401,16 @@
             ],
             "install_type": "unzip",
             "description": "Various image processing nodes."
-        }
+        },
+	{
+	    "author": "m-sokes",
+	    "title": "ComfyUI Sokes Nodes",
+	    "reference": "https://github.com/m-sokes/ComfyUI-Sokes-Nodes",
+	    "files": [
+		"https://github.com/m-sokes/ComfyUI-Sokes-Nodes"
+	    ],
+	    "install_type": "git-clone",
+	    "description": "A small node suite for ComfyUI featuring Current Date with custom formatting and empty latent selector with 9 inputs."
+	},
     ]
 }
